@@ -1,4 +1,4 @@
-# 5B7-heena
+# BG4
 Mental Health Sickness Prediction using Machine Learning
 
 Mental illness is becoming a serious global health problem worldwide, with a growing number of
