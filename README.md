@@ -9,8 +9,8 @@ being subject to various machine learning techniques to obtain labels. These cla
 used to build a model to predict the mental health of an individual. Our target population is in the working class.
 
 TEAM MEMBERS :
-SK.HEENA KOUSAR
-M.MANEESHA 
-M.PRASANNA
+1. SK.HEENA KOUSAR
+2. M.MANEESHA 
+3. M.PRASANNA
 
 DATASET LINK - https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
